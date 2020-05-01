@@ -1,0 +1,1 @@
+This is a test of some of the words that could be inside of a text. I hope that this program is interesting and helps with important computer skills. This file can be used to practice the shift cipher for the final project for ENEE114.
